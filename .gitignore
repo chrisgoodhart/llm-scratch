@@ -1,0 +1,12 @@
+Python virtual environment
+
+cuda/
+
+Python cache files
+
+pycache/
+*.py[cod]
+
+Environment variables and secrets
+
+.env
